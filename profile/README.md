@@ -5,7 +5,7 @@ CSI conducts empirical research and develops analytic methodologies in behaviora
 
 ---
 
-## 🧠 About CSI
+## 🧠 Complex Social Interactions Lab
 
 The **Complex Social Interactions Lab** (CSI) is a research initiative housed within the **Department of Criminal Justice & Criminology** at Washington State University (WSU). CSI is committed to developing **behavioral science methodologies** that address complex interactional phenomena, with a particular emphasis on observable social behaviors involving justice-related contexts.
 
@@ -46,8 +46,11 @@ The lab’s research outputs include:
 Key contributors to CSI’s mission include:
 
 - **Dr. David A. Makin** – Associate Professor and Lab Co-Founder. 
-- **Dr. Dale Willits** – Faculty collaborator with expertise in criminal justice research.  
-- **Lab managers, research assistants, and administrative staff** who coordinate projects and support research workflows. 
+- **Dr. Dale Willits** – Faculty collaborator with expertise in criminal justice research.
+- **Shlok Tomar** – Computer Scientist-AI/ML and Large Language Models
+- **Christina Shellabarger** – Lab Manager
+- **Dr. Sayani Ghosh** – Staff Scientist 
+- **Research assistants, and administrative staff** who coordinate projects and support research workflows. 
 
 For a complete overview of current team members and roles, see the CSI **Staff** section on the lab website. https://labs.wsu.edu/csi/staff-overview/
 
