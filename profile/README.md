@@ -45,7 +45,7 @@ The lab’s research outputs include:
 
 Key contributors to CSI’s mission include:
 
-- **Dr. David A. Makin** – Associate Professor and Lab Co-Founder. 
+- **Dr. David A. Makin** – Professor and Lab Co-Founder. 
 - **Dr. Dale Willits** – Faculty collaborator with expertise in criminal justice research.
 - **Shlok Tomar** – Computer Scientist-AI/ML and Large Language Models
 - **Christina Shellabarger** – Lab Manager
